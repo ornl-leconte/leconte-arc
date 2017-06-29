@@ -17,8 +17,8 @@ Other components include
  * Power supplies for Jetsons, Raspberry Pi, Radiator, and Switch
 
 Available STEP files for components follow:
- * [NVIDIA Jetson TX2](https://goo.gl/cB8zR6)
- * [Raspberry Pi Model 3](https://goo.gl/iYugrc)
+ * [NVIDIA Jetson TX2](refs/jetson-top_asm.rar)
+ * [Raspberry Pi Model 3](refs/Raspberry_B_step.rar)
 
 If there are any questions, please contact us at ugc (at) ornl.gov
 
