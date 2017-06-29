@@ -22,7 +22,7 @@ Available STEP files for components follow:
 
 If there are any questions, please contact us at ugc (at) ornl.gov
 
-Please fork this repository and upload your files as STL and STEP.
+Please add a branch to this repository and upload your files as STL and STEP.
 
 Thank you!
 
