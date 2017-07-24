@@ -1,4 +1,6 @@
-# Tiny Summit
+NOTE: This repo is for archival purposes. It contains intial prototypes and specificiations
+
+# LeConte
 
 If Titan got such a cool little brother, "Tiny Titan",
  why can't Summit have Tiny Summit?
